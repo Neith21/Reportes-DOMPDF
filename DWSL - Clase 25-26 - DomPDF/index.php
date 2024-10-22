@@ -22,7 +22,7 @@
         <select id="filterSelector" class="form-select">
             <option value="" selected>Seleccione un filtro...</option>
             <option value="form-product-provider">Filtrar por Producto o Proveedor</option>
-            <option value="form-price-range">Filtrar por Rango de Precios</option>
+            <option value="form-price-range">Filtrar por Rango de Fechas de Vencimientos</option>
         </select>
     </div>
 
